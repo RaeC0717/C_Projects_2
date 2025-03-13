@@ -64,6 +64,7 @@ This repository contains a collection of C++ projects implemented as part of my 
 ```bash
 git clone https://github.com/YOUR_USERNAME/EECS280-Projects.git
 cd EECS280-Projects
+```
 
 ## ** 📌 Key Skills Demonstrated: **
 
@@ -72,7 +73,7 @@ cd EECS280-Projects
 ✅ Software Engineering: Object-Oriented Programming, Templated Containers, Modular Code
 ✅ Statistical Analysis: Bootstrapping, Confidence Intervals, Two-Sample Hypothesis Testing
 
-**📧 Contact**
+## **📧 Contact**
 
 👩‍💻 Feiyang (Rae) Chen
 📍 University of Michigan | B.S. in Mathematics & Data Science
