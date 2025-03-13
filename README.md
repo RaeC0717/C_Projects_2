@@ -68,16 +68,22 @@ cd EECS280-Projects
 
 ## 📌 Key Skills Demonstrated: 
 
-✅ Algorithm Design: Seam Carving, BST, Graph Search, Optimization \\
-✅ Data Structures: Linked Lists, Binary Trees, Hash Maps, Priority Queues \\
-✅ Software Engineering: Object-Oriented Programming, Templated Containers, Modular Code \\
-✅ Statistical Analysis: Bootstrapping, Confidence Intervals, Two-Sample Hypothesis Testing \\
+✅ Algorithm Design: Seam Carving, BST, Graph Search, Optimization 
+
+✅ Data Structures: Linked Lists, Binary Trees, Hash Maps, Priority Queues 
+
+✅ Software Engineering: Object-Oriented Programming, Templated Containers, Modular Code 
+
+✅ Statistical Analysis: Bootstrapping, Confidence Intervals, Two-Sample Hypothesis Testing 
 
 ## 📧 Contact
 
-👩‍💻 Feiyang (Rae) Chen \\
-📍 University of Michigan | B.S. in Mathematics & Data Science \\
-📩 raechen0717@gmail.com \\
+👩‍💻 Feiyang (Rae) Chen 
+
+📍 University of Michigan | B.S. in Mathematics & Data Science 
+
+📩 raechen0717@gmail.com 
+
 🔗 https://www.linkedin.com/in/feiyang-chen-4960a0325/ 
 
 
