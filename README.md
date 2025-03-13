@@ -63,6 +63,8 @@ This repository contains a collection of C++ projects implemented as part of my 
 ### **Clone Repository**
 ```bash
 https://github.com/RaeChen0717/EECS280p2-cv.git
+https://github.com/RaeChen0717/EECS280p3.git
+
 
 ```
 
