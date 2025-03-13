@@ -62,10 +62,11 @@ This repository contains a collection of C++ projects implemented as part of my 
 ## **🛠️ Setup & Execution**
 ### **Clone Repository**
 ```bash
+https://github.com/RaeChen0717/EECS280p1.git
 https://github.com/RaeChen0717/EECS280p2-cv.git
 https://github.com/RaeChen0717/EECS280p3.git
-
-
+https://github.com/joeyuh/p4-texteditor.git
+https://github.com/joeyuh/p5-ml.git
 ```
 
 ## 📌 Key Skills Demonstrated: 
