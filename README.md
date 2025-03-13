@@ -8,6 +8,7 @@ This repository contains a collection of C++ projects implemented as part of my 
 1️⃣ Euchre AI Simulation
 
 📌 Description: Implemented an AI-powered Euchre card game using object-oriented programming (OOP) principles.
+
 🔹 Key Features:
 	•	Designed game logic and rules using Abstract Data Types (ADTs), inheritance, and polymorphism.
 	•	Implemented AI decision-making using strategic evaluation of hands based on probability.
@@ -20,9 +21,13 @@ This repository contains a collection of C++ projects implemented as part of my 
 2️⃣ Image Processing with Seam Carving
 
 📌 Description: Built an image resizing tool using seam carving, an algorithm that removes the least important pixels to adjust an image’s dimensions without distortion.
+
 🔹 Key Features:
+
 	•	Implemented energy function calculations to detect and remove low-importance seams dynamically.
+ 
 	•	Developed matrix-based image representation using C-style pointers and memory management.
+ 
 	•	Processed PPM image files with file I/O operations for visualization.
 
 🛠 Technologies Used: C, Memory Management, Dynamic Arrays, File I/O
@@ -78,6 +83,7 @@ Clone Repository:
 ⸻
 
 📧 Contact
+
 
 👩‍💻 Feiyang (Rae) Chen
 📍 University of Michigan | B.S. in Mathematics & Data Science
