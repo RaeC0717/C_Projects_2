@@ -62,8 +62,8 @@ This repository contains a collection of C++ projects implemented as part of my 
 ## **🛠️ Setup & Execution**
 ### **Clone Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/EECS280-Projects.git
-cd EECS280-Projects
+https://github.com/RaeChen0717/EECS280p2-cv.git
+
 ```
 
 ## 📌 Key Skills Demonstrated: 
